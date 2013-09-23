@@ -1,2 +1,2 @@
-## GNOME theme for Firefox
+## BayanihanOS addons for Mozilla Firefox
 
